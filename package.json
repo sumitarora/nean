@@ -5,6 +5,7 @@
     "express": "~4.0.0",
     "mongoose": "~3.6.13",
     "body-parser": "~1.0.1",
-    "restler": "~3.2.2"
+    "restler": "~3.2.2",
+    "neo4j": "~1.1.0"
   }
 }
