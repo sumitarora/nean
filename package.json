@@ -6,6 +6,7 @@
     "mongoose": "~3.6.13",
     "body-parser": "~1.0.1",
     "restler": "~3.2.2",
-    "neo4j": "~1.1.0"
+    "neo4j": "~1.1.0",
+    "underscore": "~1.6.0"
   }
 }
